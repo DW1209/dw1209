@@ -36,6 +36,10 @@
   <a href="https://docs.python.org/3/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
   </a>
+  <!-- Jupyter -->
+  <a href="https://docs.python.org/3/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="35" height="35"/>&nbsp;
+  </a>
   <!-- PyTorch -->
   <a href="https://pytorch.org/docs/stable/index.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="35" height="35"/>&nbsp;
@@ -44,9 +48,17 @@
   <a href="https://flask.palletsprojects.com/en/2.2.x/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/>&nbsp;
   </a>
-  <!-- Heroku -->
-  <a href="https://devcenter.heroku.com/categories/reference">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="35" height="35"/>&nbsp;
+  <!-- Selenium -->
+  <a href="https://docs.python.org/3/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="35" height="35"/>&nbsp;
+  </a>
+  <!-- Bash -->
+  <a href="https://www.linux.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/>
+  </a>
+  <!-- SSH -->
+  <a href="https://www.linux.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="35" height="35"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/doc">
