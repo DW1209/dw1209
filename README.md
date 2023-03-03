@@ -37,7 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
   </a>
   <!-- Jupyter -->
-  <a href="https://docs.python.org/3/">
+  <a href="https://docs.jupyter.org/en/latest/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="35" height="35"/>&nbsp;
   </a>
   <!-- PyTorch -->
@@ -49,15 +49,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/>&nbsp;
   </a>
   <!-- Selenium -->
-  <a href="https://docs.python.org/3/">
+  <a href="https://selenium-python.readthedocs.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="35" height="35"/>&nbsp;
   </a>
   <!-- Bash -->
-  <a href="https://www.linux.org/">
+  <a href="https://www.gnu.org/software/bash/manual/bash.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/>
   </a>
   <!-- SSH -->
-  <a href="https://www.linux.org/">
+  <a href="https://www.openssh.com/manual.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="35" height="35"/>
   </a>
   <!-- Git -->
