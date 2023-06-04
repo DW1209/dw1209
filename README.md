@@ -1,7 +1,6 @@
-<h1 align="center">Daniel Wang</h1>
+<h1 align="center">Hi there👋, I'm Daniel Wang</h1>
 
 <div align="center">
-  <h4 align="center">A CS Student at National Yang Ming Chiao Tung University, Taiwan</h4>
   <a href="https://github.com/DW1209">
     <img src="https://github-readme-stats.vercel.app/api?username=DW1209&show_icons=true&count_private=true&line_height=27" />
   </a>
